@@ -39,6 +39,7 @@
         "gulp-shell": "^0.5.2",
         "gulp-uglify": "^1.5.4",
         "minifier": "0.8.1",
+        "minify": "3.0.0",
         "postcss-svg": "^1.0.6",
         "poststylus": "^0.2.3",
         "stylus": "^0.52.4"
